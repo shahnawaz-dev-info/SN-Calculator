@@ -22,6 +22,7 @@ case "=":
 
 try{
 
+  
 if(display.value===""){
 display.value="";
 }
