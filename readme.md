@@ -40,17 +40,13 @@ Calculator/
 
 ## 📸 Screenshot
 
-_Add a screenshot of your calculator here._
-
-Example:
-
-![Calculator Screenshot](screenshot.png)
+<img width="414" height="675" alt="image" src="https://github.com/user-attachments/assets/0d4f829d-5757-4c7a-9932-251af0214bae" />
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Shah Nawaz**
 
-GitHub: https://github.com/YourUsername
+GitHub: https://github.com/shahnawaz-dev-info
 
 ## 📄 License
 
